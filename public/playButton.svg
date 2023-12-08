@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 10 180 180">
+    <!-- Red Circle -->
+    <circle cx="100" cy="100" r="80" fill="red"/>
+    <!-- Triangle -->
+ <polygon points="74,62 132,100 74,134" fill="white" stroke="white" stroke-linejoin="round" stroke-width="4"/>
+ </svg>

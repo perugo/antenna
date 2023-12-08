@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 10 180 180">
+    <!-- Red Circle -->
+    <circle cx="100" cy="100" r="80" fill="red"/>
+    <!-- Bars -->
+    <rect x="70" y="63" width="20" height="74" fill="white"/>
+    <rect x="110" y="63" width="20" height="74" fill="white"/>
+</svg>

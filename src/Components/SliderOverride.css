@@ -1,0 +1,22 @@
+.rc-slider-mark-text {
+    font-size: 13px;
+    color: black;
+    white-space: nowrap;
+  }
+  .rc-slider{
+    padding-top:8px;
+    padding-bottom:30px;
+    height:25px;
+  }
+  .rc-slider-dot {
+    bottom:-6px;
+    height: 12px;
+    width:12px;
+    border-color:antiquewhite;
+    border-radius:3px solid rgb(40,40,40);
+  }
+  .rc-slider-handle{
+   width:20px;
+   height:20px;
+   border:solid 4px  #96dbfa;
+  }
